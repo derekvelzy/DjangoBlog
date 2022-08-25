@@ -24,6 +24,3 @@ class Post(models.Model):
 # models.TextField - for long text without a limit
 # models.DateTimeField - a date and time
 # models.ForeignKey - link to another model
-
-# def publish(self):
-#   
